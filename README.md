@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Tudo bem? Aqui é o
-    <a href="https://www.linkedin.com/in/viniciusdeassismp/">Vinícius de Assis 😃️</a>
+    <a href="https://www.linkedin.com/in/viniciusdeassismp/">Vinícius de Assis 👨‍💻</a>
   </h1>
   
   <p align="center">
