@@ -10,7 +10,7 @@
   </p>
   
   <p align="center">
-    Se quiserem entrar em contato comigo, sintam-se a vontade! 😉️
+    Adquirindo conhecimento diariamente! 😉️
   </p>
   
 </div>
