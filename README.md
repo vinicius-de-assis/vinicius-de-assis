@@ -6,7 +6,6 @@
   </h1>
   <p align="center">
     Sou um estudante de Engenharia da Computação pela UERGS, e gosto de compartilhar meus estudos e conhecimentos no GitHub!
-    <a href="https://www.linkedin.com/in/viniciusdeassismp" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
       <img
            width="10%" 
            align="center" 
