@@ -6,13 +6,6 @@
   </h1>
   <p align="center">
     Sou um estudante de Engenharia da Computação pela UERGS, e gosto de compartilhar meus estudos e conhecimentos no GitHub!
-      <img
-           width="10%" 
-           align="center" 
-           valign="middle" 
-           src="https://www.instagram.com/vinii.madruga/" 
-           target="_blank" 
-      />
     </a>  
   </p>
   
